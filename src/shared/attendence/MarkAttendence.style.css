@@ -1,0 +1,10 @@
+.video-box {
+  width: 100%;
+}
+
+canvas {
+  position: absolute;
+}
+.name-box {
+  display: none;
+}
